@@ -1,0 +1,53 @@
+body
+{
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 0px;
+    font-family: Myfont;
+}
+#hh1
+{
+    text-align: center;
+}
+#free
+{
+    background-color: #FFBC00;
+    color: #000000;
+    border-radius: 10px;
+}
+@font-face {
+    font-family: 'MyFont'; /* 自定义字体名称 */
+    src:  url('style/font/font.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+#11h
+{
+     color: #FFBC00;
+     height: 0.15px;
+}
+
+#m
+{
+   background-color:#FFBC00;
+   color:#000000;
+   border-radius: 55px;
+}
+h2
+{
+     text-align: center;
+     font-size: 50px;
+}
+#hint
+{
+     text-align: center;
+}
+#map
+{
+     text-align: center;
+}
+input[type="password"], input[type="submit"] {
+            padding: 10px;
+            margin: 10px;
+            font-size: 16px;
+        }

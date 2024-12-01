@@ -1,0 +1,20 @@
+body
+{
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 0px;
+    font-family: MyFont;
+}
+h1
+{
+    text-align: center;
+    background-color: #FFBC00;
+    border-radius: 5px;
+    color:#000000;
+}
+.aaa
+{
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 1500%;
+}

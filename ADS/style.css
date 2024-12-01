@@ -1,0 +1,20 @@
+body
+{
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 0px;
+    font-family: Myfont;
+}
+h1
+{
+     text-align: center;
+}
+#LiSiwen
+{
+     text-indent: 150px;
+}
+#famousPerson
+{
+     background-color: #654A00;
+     border-radius: 5px;
+}

@@ -1,0 +1,68 @@
+
+body
+{
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 0px;
+    font-family: Myfont;
+}
+#hh1
+{
+    text-align: center;
+    font-size: 200%;
+}
+#free
+{
+    background-color: #FFBC00;
+    color: #000000;
+    border-radius: 10px;
+}
+@font-face {
+    font-family: 'MyFont'; /* 自定义字体名称 */
+    src:  url('style/font/font.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+#m
+{
+   background-color:#FFBC00;
+   color:#000000;
+   border-radius: 55px;
+}
+#map
+{
+     text-align: center;
+}
+#rules
+{
+    text-indent: 50px;
+    background-color: #FFBC00;
+    color: rgb(0,0,0);
+    border-radius: 55px;
+    height: 30px;
+}
+.work
+{
+    background-color:#FFBC00;
+    color: #000000;
+    border-radius:15px;
+    text-indent: 8px;
+    font-weight: bold;
+}
+.ads
+{
+    background-color: #00419A;
+    width: 80%;
+}
+#ul
+{
+    text-align: center;
+}
+#down
+{
+     background-color: #3E3E3E;
+     border-radius: 10px;
+     height: 110px;
+}
